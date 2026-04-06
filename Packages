@@ -242,15 +242,15 @@ Name: WCCC(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCCC/js.json
 
 Package: com.sini.WCEhance
-Version: 2.0-4
+Version: 2.0-5
 Architecture: iphoneos-arm64
 Maintainer: Lxcloud
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: rootless/com.sini.WCEhance_2.0-4_iphoneos-arm64.deb
-Size: 2405252
-MD5sum: bf91800aadf8822261595a53af0329cd
-SHA1: 46201951487669fcbab626591f0b699afbb14578
-SHA256: f0812ce61777ad7f739396c4c60571a4dc2f381f4e0502a29165e953162ff8b3
+Filename: rootless/com.sini.WCEhance_2.0-5_iphoneos-arm64.deb
+Size: 2590980
+MD5sum: 77136df6b68a1e6b9657e7f5f9daccac
+SHA1: cc04afb476bf0877d1c1c6f515f225597ad0a82f
+SHA256: 44078a41e4f1504bd779bc6ac816aeb9d11171e67541146a128c744d26ca5215
 Section: 微信插件
 Priority: optional
 Description: 微信增强,用于优化一些反人类设计和增强功能。
@@ -4559,15 +4559,15 @@ Name: WCCC(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCCC/js.json
 
 Package: com.sini.WCEhance
-Version: 2.0-4
+Version: 2.0-5
 Architecture: iphoneos-arm64e
 Maintainer: Lxcloud
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: roothide/com.sini.WCEhance_2.0-4_iphoneos-arm64e.deb
-Size: 2407736
-MD5sum: dd4b6ba7d4196f7bc771b69961d7ed5e
-SHA1: ee7b026c7602e18f5a7c6f3da12f6ea3f5dc902b
-SHA256: cd44a17bc7656cc4434d3b3131a785b23210689ad236241f277e5a92b2b48ba8
+Filename: roothide/com.sini.WCEhance_2.0-5_iphoneos-arm64e.deb
+Size: 2606116
+MD5sum: c2040be2b2818487aa7483719540f73d
+SHA1: 9c0761d76bb98da10560e9df1a062204965afdf6
+SHA256: 980e020684cc41380e2da1681b0933ea0b3a371360d07f637de6f2838cd110bd
 Section: 微信插件
 Priority: optional
 Description: 微信增强,用于优化一些反人类设计和增强功能。
