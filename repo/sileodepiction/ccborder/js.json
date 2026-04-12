@@ -65,12 +65,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1.2-40",
+                    "text": "1.1.2-41",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026年03月30日",
+                    "text": "2026年04月43日",
                     "title": "更新日期"
                 },
                 {
@@ -89,6 +89,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.1.2-41\n- 新增自定义专注模式模块的标题\n- 群友要求: 新增禁用专注模式模块上的按钮的圆形背景\n- 群友要求: 新增禁用模块的打开时的白色背景(无法理解但尊重)\n- 群友要求: 新增链接模块1x3布局模式(无法理解但尊重)",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
