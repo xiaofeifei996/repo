@@ -207,18 +207,18 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/tg.png
 Name: Telegrammask(rootless)
 
 Package: com.sini.WCCC
-Version: 1.0-7
+Version: 1.0-8
 Architecture: iphoneos-arm64
 Maintainer: huami
-Installed-Size: 1912
+Installed-Size: 1944
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.WCCC_1.0-7_iphoneos-arm64.deb
-Size: 723108
-MD5sum: 08eac94b4c1e7175469ceade23462413
-SHA1: 3a24f9a6ab020aec561c70c62ed09a2d1319cb75
-SHA256: 4a891b5123e4fdd963101d3fce3fea5c8249d91530ebf4a72b1ed032f230b510
+Filename: rootless/com.sini.WCCC_1.0-8_iphoneos-arm64.deb
+Size: 735876
+MD5sum: e3bbb51a6477078df339d0604a219f47
+SHA1: 97938e609b8d090c3f68e006969ef466a2440edc
+SHA256: 11929b02798d233830e8e0ec02358a820eb2a027ca3a6a2caed4ec4882d82053
 Section: 微信插件
-Description: WeChat Hot Update Coexistence
+Description: 微信热更新管理
 Author: huami
 Icon: https://sini921.github.io/repo/sileodepiction/icon/WCCC.png
 Name: WCCC(rootless)
@@ -4541,18 +4541,18 @@ Name: LibGcUniversal(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/libgcuniversal/js.json
 
 Package: com.sini.WCCC
-Version: 1.0-7
+Version: 1.0-8
 Architecture: iphoneos-arm64e
 Maintainer: huami
-Installed-Size: 1896
+Installed-Size: 1928
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: roothide/com.sini.WCCC_1.0-7_iphoneos-arm64e.deb
-Size: 785188
-MD5sum: 3ea9acd512353aa290f6d3794e2ccad8
-SHA1: 2bda202d496db20d3cce6b74f53970af5f5c8d4e
-SHA256: ee98a4e291d5f3afa12ad2626fb9a1613476e235f59bdf4709c00fab63e38d1a
+Filename: roothide/com.sini.WCCC_1.0-8_iphoneos-arm64e.deb
+Size: 728444
+MD5sum: f4a551b21f9d624cdf136a64fbad7f15
+SHA1: 2e3ddea9b944e944fc9aee47346f6866d0f1ceff
+SHA256: 77c2574b875c3ab42f4de983346d445ed87dc99a89ae53991015ff83c14bd894
 Section: 微信插件
-Description: WeChat Hot Update Coexistence
+Description: 微信热更新管理
 Author: huami
 Icon: https://sini921.github.io/repo/sileodepiction/icon/WCCC.png
 Name: WCCC(roothide)
