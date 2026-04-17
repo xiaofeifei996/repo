@@ -207,18 +207,18 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/tg.png
 Name: Telegrammask(rootless)
 
 Package: com.sini.WCCC
-Version: 1.0-6
+Version: 1.0-7
 Architecture: iphoneos-arm64
 Maintainer: huami
-Installed-Size: 1620
+Installed-Size: 1912
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.WCCC_1.0-6_iphoneos-arm64.deb
-Size: 672008
-MD5sum: 229000a100f839232c9ebaf7cb89f4b2
-SHA1: 2a0bbb00e913e90816c70ead26f89c3f29c3da07
-SHA256: e88da2ff9f5d7fb977f8cb4a0962a5270279576d165c31c4435961130f2351dd
+Filename: rootless/com.sini.WCCC_1.0-7_iphoneos-arm64.deb
+Size: 723108
+MD5sum: 08eac94b4c1e7175469ceade23462413
+SHA1: 3a24f9a6ab020aec561c70c62ed09a2d1319cb75
+SHA256: 4a891b5123e4fdd963101d3fce3fea5c8249d91530ebf4a72b1ed032f230b510
 Section: 微信插件
-Description: 微信热更新管理
+Description: WeChat Hot Update Coexistence
 Author: huami
 Icon: https://sini921.github.io/repo/sileodepiction/icon/WCCC.png
 Name: WCCC(rootless)
@@ -243,15 +243,15 @@ Name: 微信增强(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCEhance/js.json
 
 Package: com.sini.WCPulse
-Version: 1.5-8
+Version: 1.5-9
 Architecture: iphoneos-arm64
 Maintainer: huami
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.WCPulse_1.5-8_iphoneos-arm64.deb
-Size: 8590824
-MD5sum: 97429ea941159d21bd1a6841e57bc3b8
-SHA1: 28b6fdec5261330ddeb5fbbd03c0568fe9761b51
-SHA256: 56753c5bbc7e5d6a5d772706a283fb84d72eabcf9bf26a12b19bd90d6043b260
+Filename: rootless/com.sini.WCPulse_1.5-9_iphoneos-arm64.deb
+Size: 8746512
+MD5sum: 626d3fe9a20d16d72ef808f57f19385b
+SHA1: eb141196f07213158729dd076588d00bfb5f8b86
+SHA256: 1ca7785ffda5a9beaabfeb42a4411f03f8f6471750d9afd3c15e446f8bc82bc4
 Section: 微信插件
 Description: WCPulse
 Author: huami
@@ -4541,18 +4541,18 @@ Name: LibGcUniversal(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/libgcuniversal/js.json
 
 Package: com.sini.WCCC
-Version: 1.0-6
+Version: 1.0-7
 Architecture: iphoneos-arm64e
 Maintainer: huami
-Installed-Size: 1652
+Installed-Size: 1896
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: roothide/com.sini.WCCC_1.0-6_iphoneos-arm64e.deb
-Size: 676440
-MD5sum: 2dc4b5402f8a79c3b0d933abde035854
-SHA1: 4b12368270715e543bbef1c607e47bcd3d26abd3
-SHA256: 582939609bb78748ef13959a01c801769402ba8e1a0e4b302c8caa904a54ccde
+Filename: roothide/com.sini.WCCC_1.0-7_iphoneos-arm64e.deb
+Size: 785188
+MD5sum: 3ea9acd512353aa290f6d3794e2ccad8
+SHA1: 2bda202d496db20d3cce6b74f53970af5f5c8d4e
+SHA256: ee98a4e291d5f3afa12ad2626fb9a1613476e235f59bdf4709c00fab63e38d1a
 Section: 微信插件
-Description: 微信热更新管理
+Description: WeChat Hot Update Coexistence
 Author: huami
 Icon: https://sini921.github.io/repo/sileodepiction/icon/WCCC.png
 Name: WCCC(roothide)
@@ -4577,15 +4577,15 @@ Name: 微信增强(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCEhance/js.json
 
 Package: com.sini.WCPulse
-Version: 1.5-8
+Version: 1.5-9
 Architecture: iphoneos-arm64e
 Maintainer: huami
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: roothide/com.sini.WCPulse_1.5-8_iphoneos-arm64e.deb
-Size: 8594984
-MD5sum: 797ce9bc512cffa4a5d65bd3133ed374
-SHA1: b907e91bf04679219012bde514bdaa4d79eee3c6
-SHA256: ed8515ae20ed8a4d314280c2bfb5390660c47e6185558a612c96e1f92154e0fb
+Filename: roothide/com.sini.WCPulse_1.5-9_iphoneos-arm64e.deb
+Size: 8750792
+MD5sum: 5f174388796ea90417c5b9a5b159922d
+SHA1: c90aaed9b1c611f5a1cfa69f7b142f61638c4bb4
+SHA256: d0079d4515fa35367bb25cb0f8ed61dc5d2a5699c1b1f26689604c9858a037b8
 Section: 微信插件
 Description: WCPulse
 Author: huami
