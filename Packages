@@ -3825,16 +3825,16 @@ Name: Griddy(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/griddy/js.json
 
 Package: com.sini921.indicators
-Version: 1.2-21
+Version: 1.2-22
 Architecture: iphoneos-arm64
 Maintainer: LacertosusDeus & SINI
 Installed-Size: 584
 Depends: mobilesubstrate
-Filename: rootless/com.sini921.indicators_1.2-21_iphoneos-arm64.deb
-Size: 81346
-MD5sum: 156eba132fb90f49e46717a738e75973
-SHA1: 8482175f9692f03a190237994e603aa709ee8e85
-SHA256: 1778e7fe1424395642eae2c802c72f08400c7d3e70c9199fb4d2b803736ab1b2
+Filename: rootless/com.sini921.indicators_1.2-22_iphoneos-arm64.deb
+Size: 80924
+MD5sum: 21e75bb97f7dd88b5859b0df5323315d
+SHA1: 3775dab4027831e015e3812fb32798f25b5443c2
+SHA256: 549d2acaa261aeb8305e403ec51cc3420e1e5a54cb6e57e2b2bf4b72a67871e9
 Section: 越狱插件
 Description: VPN、勿扰模式、手电筒打开时右上角显示对应的指示灯，基于开源重新编译，修复支持iOS15+无根/隐根越狱。
 Author: LacertosusDeus & SINI
@@ -5243,16 +5243,16 @@ Name: Griddy(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/griddy/js.json
 
 Package: com.sini921.indicators
-Version: 1.2-21
+Version: 1.2-22
 Architecture: iphoneos-arm64e
 Maintainer: LacertosusDeus & SINI
 Installed-Size: 568
 Depends: mobilesubstrate
-Filename: roothide/com.sini921.indicators_1.2-21_iphoneos-arm64e.deb
-Size: 81110
-MD5sum: 55889dd3495c8bfa4863950eca0880ae
-SHA1: 404880ce23be56a21a306a07a176d628d8ab5136
-SHA256: 6255453f6c6ba6ce532b20bc13cf85284941d66f86c8b9560cebf62cb939f71c
+Filename: roothide/com.sini921.indicators_1.2-22_iphoneos-arm64e.deb
+Size: 81300
+MD5sum: c1bd9a899d7d5b26715d4809ddfe5fc7
+SHA1: e2a3cf20812930b74f78041cfc15c05678197d78
+SHA256: 436d6aa4905f56acbce0d8ddf2cbcbb92cbfc26aadba3f79ac492619224789ec
 Section: 越狱插件
 Description: VPN、勿扰模式、手电筒打开时右上角显示对应的指示灯，基于开源重新编译，修复支持iOS15+无根/隐根越狱。
 Author: LacertosusDeus & SINI
