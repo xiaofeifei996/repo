@@ -3573,16 +3573,16 @@ Name: CallMeMaybe(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/callmemaybe/js.json
 
 Package: com.sini921.ccborder
-Version: 1.1.2-41
+Version: 1.1.2-42
 Architecture: iphoneos-arm64
 Maintainer: fiore & p2kdev & SINI
 Installed-Size: 1024
 Depends: mobilesubstrate, firmware (>= 16.0)
-Filename: rootless/com.sini921.ccborder_1.1.2-41_iphoneos-arm64.deb
-Size: 210368
-MD5sum: e205f8afa473164838f455fc5f23294e
-SHA1: b6546e01803f1ad075764d52c3075177349e240f
-SHA256: 3fd0b603174f8d788e889633e0cb209d3cd9cceba921e627d58d1c0711911aab
+Filename: rootless/com.sini921.ccborder_1.1.2-42_iphoneos-arm64.deb
+Size: 211748
+MD5sum: 6ee4ec2fe50ddf39455cd70aaf40e11b
+SHA1: e4b7890589289c67545f50d97ec9ecb70cba0c4c
+SHA256: 28e6c815869f9c9f63a9018203ad3fb4bafa69b06e603ea041598ba99005d198
 Section: 控制中心
 Description: 控制中心调整，基于开源修改编译，去掉了AlderisColorPicker依赖
 Author: fiore & p2kdev & SINI
@@ -3771,16 +3771,16 @@ Name: FakeSignalBar(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/fakesignalbar/js.json
 
 Package: com.sini921.folderpro
-Version: 0.0.1-31
+Version: 0.0.1-32
 Architecture: iphoneos-arm64
 Maintainer: SINI
 Installed-Size: 1452
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini921.folderpro_0.0.1-31_iphoneos-arm64.deb
-Size: 504642
-MD5sum: ce3a28695297cda3506c14304e6d707d
-SHA1: 6da455e84cdb6f3aca220ff77b73210e2a5fead2
-SHA256: 8ab5acb842193bc44e56b191eb8aeab2a9603a9cb189a1ebd4b024f4a6194371
+Filename: rootless/com.sini921.folderpro_0.0.1-32_iphoneos-arm64.deb
+Size: 505360
+MD5sum: 2335709ad4e513cc45cd8c33a9e6ce77
+SHA1: 738d773a740bd35b8e9c3a46f7f02731bfe85987
+SHA256: 1898576637cf55c200d3a14738f2adcb311ad2a7ff8a58a5d3cba81f61ced167
 Section: 越狱插件
 Description: 文件夹简单优化
 Author: SINI
@@ -4991,16 +4991,16 @@ Name: BatteryBuddy(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/batterybuddy/js.json
 
 Package: com.sini921.ccborder
-Version: 1.1.2-41
+Version: 1.1.2-42
 Architecture: iphoneos-arm64e
 Maintainer: fiore & p2kdev & SINI
 Installed-Size: 1008
 Depends: mobilesubstrate, firmware (>= 16.0)
-Filename: roothide/com.sini921.ccborder_1.1.2-41_iphoneos-arm64e.deb
-Size: 207200
-MD5sum: 268b2f45cbc624e52b01367fb23c2341
-SHA1: aee960b1c80d93fa50e10e3494e3ff2999bebe73
-SHA256: 1369738d8a2159929ef9e7eb30553be3ae1c56dd1ed82ccedc0380549bee23c6
+Filename: roothide/com.sini921.ccborder_1.1.2-42_iphoneos-arm64e.deb
+Size: 207532
+MD5sum: 147e010f756f089e90060fd701262708
+SHA1: bb5c97e42618230cbff3736981d87e5afe325c90
+SHA256: d51be8d0bd3b6eb6ed4c6542834a05c7f7ccf529b8ce32db1a5387501515e11b
 Section: 控制中心
 Description: 控制中心调整，基于开源修改编译，去掉了AlderisColorPicker依赖
 Author: fiore & p2kdev & SINI
@@ -5189,16 +5189,16 @@ Name: FakeSignalBar(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/fakesignalbar/js.json
 
 Package: com.sini921.folderpro
-Version: 0.0.1-31
+Version: 0.0.1-32
 Architecture: iphoneos-arm64e
 Maintainer: SINI
 Installed-Size: 1452
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: roothide/com.sini921.folderpro_0.0.1-31_iphoneos-arm64e.deb
-Size: 502836
-MD5sum: 29160e35f6c1b0cb3f3e8e9df2fd4425
-SHA1: 42b0f22560a1468e725d7f47d5eaa09b7bed3843
-SHA256: a318897246056d7537699adfe33aaeeb12df8064ea8e1980d27fb01b7aaaad9a
+Filename: roothide/com.sini921.folderpro_0.0.1-32_iphoneos-arm64e.deb
+Size: 503292
+MD5sum: ac6f6d5112b755cc9e32fe536e4d0bc1
+SHA1: a22cf83502b3a0314d0e3bf95f254a7616d6fb73
+SHA256: 8145d5b8b72e1641c6488cfa8769564edd6bdc56250c157f82f6b9ad9a16eed1
 Section: 越狱插件
 Description: 文件夹简单优化
 Author: SINI
