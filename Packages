@@ -278,15 +278,15 @@ Name: WCPulse(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCPulse/js.json
 
 Package: com.sini.WCRefine
-Version: 1.4-2
+Version: 1.4-3
 Architecture: iphoneos-arm64
 Maintainer: 热心网友
 Depends: firmware (>= 14.0), mobilesubstrate
-Filename: rootless/com.sini.WCRefine_1.4-2_iphoneos-arm64.deb
-Size: 2985108
-MD5sum: 93670a60acdcef9a08563e724ddbf3a7
-SHA1: f3b66b687f2fc82e7eff6835b1cc579c7e83c778
-SHA256: 413d8e69e31a501519d2f1a41ec1541691444aaca7d052c8122be926a8ca95e5
+Filename: rootless/com.sini.WCRefine_1.4-3_iphoneos-arm64.deb
+Size: 2882336
+MD5sum: da46dfeac9dbf00fad4d4a1f05bdab45
+SHA1: 34cc346cedc7040da297a1cf2979c213a5be0502
+SHA256: 4f7d968dd0a41035e55dbbea7bc3912de68fef6fd2480e48b6039f2579a23d42
 Section: 微信插件
 Priority: optional
 Description: 微信优化的重制版，基于微信8.0.64+版本制作。
