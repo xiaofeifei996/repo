@@ -5421,6 +5421,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: RemoveQuickActionsButton(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/removequickactionsbutton/js.json
 
+Package: com.sini921.smoothinstall
+Version: 0.0.1-1
+Architecture: iphoneos-arm64e
+Maintainer: SINI
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: roothide/com.sini921.smoothinstall_0.0.1-1_iphoneos-arm64e.deb
+Size: 5584
+MD5sum: 7826538e46c6c871d1df73adc42b8d78
+SHA1: 5a74d9170bf201c380e02a1a1bf7cd1df31a1e11
+SHA256: 7ac676ae00228a7fbd313f43b2ca36bef00da4453580115a9ff324642eb65664
+Section: 越狱插件
+Description: 简化roothide越狱安装rootless插件时的流程
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/smoothinstall.png
+Name: SmoothInstall(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/smoothinstall/js.json
+
 Package: com.sini921.switchpro
 Version: 0.0.1-9
 Architecture: iphoneos-arm64e
