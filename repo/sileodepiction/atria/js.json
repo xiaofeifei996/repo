@@ -73,12 +73,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.4.1-6",
+                    "text": "1.4.1-8",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年10月31日",
+                    "text": "2025年05月06日",
                     "title": "更新日期"
                 },
                 {
@@ -97,6 +97,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.4.1-8\n- 修复iOS17+支持",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"

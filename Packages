@@ -3536,16 +3536,16 @@ Name: AppStoreTroller(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/appstoretroller/js.json
 
 Package: com.sini921.atria
-Version: 1.4.1-6
+Version: 1.4.1-8
 Architecture: iphoneos-arm64
 Maintainer: ren7995 & SINI
-Installed-Size: 1104
+Installed-Size: 1008
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
-Filename: rootless/com.sini921.atria_1.4.1-6_iphoneos-arm64.deb
-Size: 375776
-MD5sum: fd5ee4fafa2259ae093a430c9e621751
-SHA1: 5080f01692b770b4d96f8da9d594780baf72723c
-SHA256: d47f75284cdb0179388b1dec05147639637b883eefa3a87cd47c0c7124d364a5
+Filename: rootless/com.sini921.atria_1.4.1-8_iphoneos-arm64.deb
+Size: 215446
+MD5sum: 4ba23b53a8869caa49d01b097793df07
+SHA1: 05dcde47618ce7c49aa05e201d8d832caf7c9312
+SHA256: d4c7e8afe7b4fc4098c8d00aab8888d8d153af174b5d1772cda0ecfb1cdc5f2c
 Section: 越狱插件
 Description: 适用于iOS 13-16的主屏幕布局编辑器，基于开源修改编译的中文版，去掉了Alderis Color Picker依赖，编译支持roothide。
 Author: ren7995 & SINI
@@ -4972,16 +4972,16 @@ Name: AppStoreTroller(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/appstoretroller/js.json
 
 Package: com.sini921.atria
-Version: 1.4.1-6
+Version: 1.4.1-8
 Architecture: iphoneos-arm64e
 Maintainer: ren7995 & SINI
-Installed-Size: 1072
+Installed-Size: 992
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
-Filename: roothide/com.sini921.atria_1.4.1-6_iphoneos-arm64e.deb
-Size: 374904
-MD5sum: 1ed57d45ad6fef16d46bb5fdb22377ec
-SHA1: 02eff11e38c32e0baf8c0fc7afc7f0f700f647df
-SHA256: 00c0c0ff91245288f15540a49ddbd9f9c7f90b3eb8aefa9c50f147db64070796
+Filename: roothide/com.sini921.atria_1.4.1-8_iphoneos-arm64e.deb
+Size: 214814
+MD5sum: c52d37666f5ee26bc67e20c5ba0de60d
+SHA1: 5a0b6a238e30de1cdb574c621d5503b4a7826175
+SHA256: 7190eb3cffb782cbba2dbc067ca7ca7445b585d3db22c0539d1f14f2939dfa41
 Section: 越狱插件
 Description: 适用于iOS 13-16的主屏幕布局编辑器，基于开源修改编译的中文版，去掉了Alderis Color Picker依赖，编译支持roothide。
 Author: ren7995 & SINI
