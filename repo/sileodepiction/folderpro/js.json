@@ -94,7 +94,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "#### 版本: 0.0.1-39\n- 新增更换应用程序图标与遮罩效果功能,不要问我怎么用,除非此功能导致的崩溃注销安全模式,否则不要反馈任何关于此功能问题,问就拉黑",
+                    "markdown": "#### 版本: 0.0.1-39\n- 新增更换应用程序图标与遮罩效果功能,遮罩素材命名为mask.png,overlay.png,放在MaskEffect目录下",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
