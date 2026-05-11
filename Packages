@@ -157,21 +157,21 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/appindex.png
 Name: AppIndex(rootless)
 
 Package: com.sini.BubbleBox
-Version: 1.0-2
+Version: 1.0-3
 Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: rootless/com.sini.BubbleBox_1.0-2_iphoneos-arm64.deb
-Size: 1419764
-MD5sum: 81d61f9b46986cb7b8c139d13465890a
-SHA1: 1a741433b959e4a17d7dfaf1f29e942cae435552
-SHA256: a36e93128711012c4ac51efbefcd558851d88cfe38131d82832fda704302ed46
+Filename: rootless/com.sini.BubbleBox_1.0-3_iphoneos-arm64.deb
+Size: 1582988
+MD5sum: d03b7ecd20acbd210ce40ad4bef3fd7f
+SHA1: 63eebd9cc426a1b0d2e84519eab638b5cf90e7bb
+SHA256: 2e8e32ec12c03477cb3987cc3af1e53135d05d34bc931b0fd09867b4941c517d
 Section: 微信插件
 Priority: optional
 Description: 微信气泡盒子
 Author: Mao
 Icon: https://sini921.github.io/repo/sileodepiction/icon/BubbleBox.png
-Name: BubbleBox(rootless)
+Name: 气泡盒子(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/BubbleBox/js.json
 
 Package: com.sini.HBWechatHelper.ailun
